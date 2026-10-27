@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://vyntiq.co.in"><img alt="Website" src="https://img.shields.io/badge/vyntiq.co.in-1b1f23?style=for-the-badge&logo=googlechrome&logoColor=8ab4ff"></a>
   <a href="https://www.linkedin.com/company/vyntiq-technologies/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2f6feb?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:info@vyntiq.co.in"><img alt="Email" src="https://img.shields.io/badge/info%40vyntiq.co.in-252a30?style=for-the-badge&logo=maildotru&logoColor=8ab4ff"></a>
+  <a href="mailto:contact@vyntiq.co.in"><img alt="Email" src="https://img.shields.io/badge/contact%40vyntiq.co.in-252a30?style=for-the-badge&logo=maildotru&logoColor=8ab4ff"></a>
 </p>
 
 ### Intelligent by design. Practical by purpose.
