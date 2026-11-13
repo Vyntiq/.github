@@ -26,8 +26,8 @@ Explain **why** in the body, not only what; the diff already shows what.
 
 ## Continuous integration and deployment
 
-Every repository is mirrored, tested and, if it is an application, deployed to a preview at
-`https://<repository>.201-18-207-162.sslip.io/` by **Vyntiq CD**. A `.vyntiq/cd.yml` file in the repository
+Every repository is mirrored, tested and, if it is an application, deployed to an internal preview by
+**Vyntiq CD**. Ask an organisation owner for the preview address and login. A `.vyntiq/cd.yml` file in the repository
 controls tests, ports, health checks and extra domains (see the `vyntiq-cd` repository).
 
 ## Releases
